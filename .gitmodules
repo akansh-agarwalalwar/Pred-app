@@ -1,0 +1,6 @@
+[submodule "mysql-react-frontend-color"]
+	path = mysql-react-frontend-color
+	url = https://github.com/akansh-agarwalalwar/mysql-react-frontend-color.git
+[submodule "color-server"]
+	path = color-server
+	url = https://github.com/akansh-agarwalalwar/color-server.git
